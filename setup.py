@@ -18,7 +18,7 @@ setup(
     version=VERSION,
     license='MIT License',
     url='https://github.com/pascalhahn/pyntensiswmp',
-    download_url='https://github.com/pascalhahn/pyntensiswmp/archive/'+VERSION,
+    download_url='https://github.com/pascalhahn/pyntensiswmp/archive/'+VERSION+".tar.tar.gz",
     author='Pascal Hahn',
     author_email='ph@lxd.bz',
     description='Intensis WMP Connector',
